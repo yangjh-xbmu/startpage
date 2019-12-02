@@ -1,0 +1,7 @@
+baseURL = "https://domsle.github.io/startpage/"
+languageCode = "zh"
+title = "Start Page"
+theme = "startpage"
+
+[params]
+    offline = false

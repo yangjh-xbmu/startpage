@@ -1,0 +1,68 @@
+---
+- name: 讲义
+  colour: green # (a valid mdl color name)
+  sections: # A section
+  - links:
+    - title: Python 程序设计
+      url: http://yangjh.gitee.io/learningpython
+    - title: 前端开发
+      url: http://yangjh.gitee.io/front-end
+    - title: 编程相关基础知识
+      url: http://yangjh.gitee.io/appendix
+    - title: PHP 网站开发
+      url: http://yangjh.gitee.io/php
+  - links:
+    - title: 社会科学统计分析方法
+      url: http://adamyang.coding.me/
+    - title: 实验设计
+      url: https://yangjh-xbmu.github.io/experimentaldesign
+
+- name: 数字出版
+  colour: blue # (a valid mdl color name)
+  sections: # A section
+  - links:
+    - title: Gitbook 在线出版工具
+      url: http://yangjh.gitee.io/gitbook
+    - title: VuePress 新生代出版工具
+      url: http://yangjh.gitee.io/vuepress
+    - title: MarkDown2reveal
+      url: http://yangjh.gitee.io/markdown2reveal
+    - title: Bookdown 科研出版
+      url: https://yangjh-xbmu.github.io/bookdown/
+
+- name: 学习笔记
+  colour: orange # (a valid mdl color name)
+  sections: # A section
+  - links:
+    - title: Latex 笔记
+      url: https://gitee.com/yangjh/LearningTeX/
+    - title: Mac 笔记
+      url: http://yangjh.gitee.io/macos
+    - title: Shell 笔记
+      url: http://yangjh.gitee.io/shell
+  - links:
+    - title: 广义叙述学
+      url: http://yangjh.gitee.io/narratology/
+
+- name: 项目及工具
+  colour: pink # (a valid mdl color name)
+  sections: # A section
+  - links:
+    - title: 教学日志工具
+      url: https://gitee.com/yangjh/tools
+    - title: 全球历史时间线
+      url: https://yangjh.gitee.io/timemap/history.html
+    - title: 西方哲学史
+      url: https://yangjh.gitee.io/philosophymindmap/
+  - links:
+    - title: 选股工具Stock2
+      url: https://gitee.com/yangjh/stock2
+
+- name: 常用链接
+  colour: red # (a valid mdl color name)
+  sections: # A section
+  - links:
+    - title: 谷歌学术
+      url: https://scholar.google.com
+    - title: Z-lib 免费电子书图书馆
+      url: https://b-ok.cc/

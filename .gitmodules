@@ -1,0 +1,3 @@
+[submodule "themes/startpage"]
+	path = themes/startpage
+	url = https://github.com/tnwhitwell/hugo-startpage-theme
