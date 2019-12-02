@@ -1,4 +1,4 @@
-baseURL = "https://domsle.github.io/startpage/"
+baseURL = "https://books.yangzh.cn/"
 languageCode = "zh"
 title = "Start Page"
 theme = "startpage"
